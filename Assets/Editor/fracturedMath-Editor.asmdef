@@ -1,0 +1,10 @@
+{
+  "name": "fracturedMath-Editor",
+  "references": [
+    "fracturedMath"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
